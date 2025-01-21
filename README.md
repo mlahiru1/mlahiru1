@@ -2,10 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Madhushan L Aberathna</h1>
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mlahiru1&label=Profile%20views&color=0e75b6&style=flat" alt="mlahiru1" /> </p>
 
 <p><img align="left" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yZ41P3YdMYMiyFPAPrzyGw.gif" alt="mlahiru1" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mlahiru1&label=Profile%20views&color=0e75b6&style=flat" alt="mlahiru1" /> </p>
+
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
