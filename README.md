@@ -25,5 +25,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlahiru1&show_icons=true&locale=en&layout=compact" alt="mlahiru1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlahiru1&show_icons=true&locale=en" alt="mlahiru1" /></p>
 
+<p><img align="left" src="[https://github-readme-streak-stats.herokuapp.com/?user=mlahiru1&](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yZ41P3YdMYMiyFPAPrzyGw.gif)" alt="mlahiru1" /></p>
+
+
 
 
