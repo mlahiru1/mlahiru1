@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently Studying at **Eastern University Sri Lanka - CS**
 
-- 🌱 I’m currently learning **React,Python,django,php**
+- 🌱 I’m currently learning **ASP.NET, Angular, React, Python, php, MySQL**
 
 - 📫 How to reach me **maberathne13@gmail.com**
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/madhushan-lahiru"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/madhushan-lahiru" height="30" width="40" /></a>
+<a href="linkedin.com/in/madhushan-lahiru">LinkedIn</a>
 </p>
 
 
