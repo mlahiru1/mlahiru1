@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Madhushan L Aberathna</h1>
-<h3 align="center">A passionate backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mlahiru1&label=Profile%20views&color=0e75b6&style=flat" alt="mlahiru1" /> </p>
 
 - 🔭 I’m currently Studying at **Eastern University Sri Lanka - CS**
@@ -43,11 +43,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  <!-- Amazon Web Services -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-
+ 
   <!-- Angular -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
@@ -174,12 +170,15 @@
   </a>
 </p>
 
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
+</a>
 
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mlahiru1&" alt="mlahiru1" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlahiru1&show_icons=true&locale=en&layout=compact" alt="mlahiru1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlahiru1&show_icons=true&locale=en" alt="mlahiru1" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlahiru1&show_icons=true&locale=en" alt="mlahiru1" /></p> -->
 
 
 
