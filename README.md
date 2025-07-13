@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Studying at **Eastern University Sri Lanka - CS**
 
-- 🌱 I’m currently learning **ASP.NET, Angular, React, Python, php, MySQL**
+- 🌱 I’m currently learning **ASP.NET, Angular, React, Springboot, Python, php, MySQL**
 
 - 📫 How to reach me **maberathne13@gmail.com**
 
